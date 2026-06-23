@@ -4,7 +4,14 @@ The typical PowerPoint presentation isn't very interesting. Walls of text or bul
 Your slides don't have to be this way, and it doesn't take a whole lot of effort to make them better.
 PowerPointLabs makes creating engaging PowerPoint presentations easy. Check out what it can do for you here: http://powerpointlabs.info
 
-[![Build status](https://img.shields.io/appveyor/ci/kai33/powerpointlabs/master.svg)](https://ci.appveyor.com/project/kai33/powerpointlabs)
+> **Community fork** — This repository is a community-maintained continuation of
+> [PowerPointLabs/PowerPointLabs](https://github.com/PowerPointLabs/PowerPointLabs),
+> which was archived by its original maintainers. The goal is to keep the add-in
+> alive: fix bugs, maintain compatibility with modern versions of Office and
+> .NET Framework, and welcome new contributions.
+>
+> Open issues and pull requests from the original repository are being reviewed
+> and triaged — contributions and feedback are welcome.
 
 ## Contributing
 We welcome any contributions to make PowerPointLabs better! Before starting, please take a moment to review the guidelines below:
@@ -23,7 +30,7 @@ This section contains information that can be beneficial for PowerPointLabs deve
 * [Development Team](doc/DevTeam.md)
 
 ## Acknowledgements
-PowerPointLabs is developed at the School of Computing, National University of Singapore, with funding from an NUS Learning Innovation Fund, Technology (LIFT) grant.
+PowerPointLabs was originally developed at the School of Computing, National University of Singapore, with funding from an NUS Learning Innovation Fund, Technology (LIFT) grant.
 
 ## License
 PowerPointLabs is released under GPLv2.
