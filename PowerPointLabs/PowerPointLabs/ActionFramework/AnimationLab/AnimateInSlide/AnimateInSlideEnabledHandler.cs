@@ -14,7 +14,7 @@ namespace PowerPointLabs.ActionFramework.AnimationLab
         protected override bool GetEnabled(string ribbonId)
         {
             Selection currentSelection = this.GetCurrentSelection();
-            return ShapeUtil.IsSelectionMultipleSameShapeType(currentSelection);
+            return ShapeUtil.IsSelectionShape(currentSelection);
         }
     }
 }
